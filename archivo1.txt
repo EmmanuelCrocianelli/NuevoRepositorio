@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 hola archivo 1 de microdefafio  13
 cambio el clima nuevamente, sigue nublado, pero ahora hace frio.
-=======
 hola archivo 1 de microdefafio  13 todo bien?
->>>>>>> 1111e1a46a2a3c2b2bec939f02ab2ef5fa5ba357
+
+
